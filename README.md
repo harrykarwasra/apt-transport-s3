@@ -81,6 +81,10 @@ Index-File:true
 
 This message will trigger an s3 get from the above bucket and key and save it to Filename.  It needs a blank line after the message to trigger the processing by the s3 method.
 
+## Author
+
+[Auth0](auth0.com)
+
 ## Contribution
 If you want to contribute a patch via PR please create it against development
 branch. Patches via email are welcome as well.
